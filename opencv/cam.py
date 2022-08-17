@@ -18,4 +18,4 @@ def main():
 if __name__ == '__main__':
   main()
 
-# vim: ft=python ts=2 sw=2 sts=2 et
+# vim: set ft=python ts=2 sw=2 sts=2 et

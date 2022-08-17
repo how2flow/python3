@@ -115,4 +115,4 @@ if __name__ == '__main__':
     print("Invalid option!")
     print("e.g. python3 parallel.py -m process")
 
-# vim: ft=python ts=2 sw=2 sts=2 et
+# vim: set ft=python ts=2 sw=2 sts=2 et
